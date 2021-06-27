@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822726915045",
+    "project_id": "authdw",
+    "storage_bucket": "authdw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822726915045:android:249b179d138c8357ddf50c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.NewUnityProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822726915045-0p9mchgsh0daeq6jhegqsqdbmvrvpikg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-78PijmizbV5N9edpJOua7-IL89Iq95g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822726915045-0p9mchgsh0daeq6jhegqsqdbmvrvpikg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
